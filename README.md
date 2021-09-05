@@ -5,7 +5,7 @@ If the candidate is not selected, return the skills for the canditate to learn i
 
 ## Data
 
-The data contains various fields like City, skills, institute, degree, stresm, etcetera.
+The data contains various fields like City, skills, institute, degree, stream, etcetera.
 Our concern is with the skills field and the apllication Id filed.
 The skills filed contains the various techical skills of a person like Python, Data Analytics, Machine Learning, etcetera.
 The Application Id is a unique Id of a candidate applying for a certain job.
